@@ -66,22 +66,6 @@ h2{
     border-radius: 10px;
 }
 
-.nextButton{
-    font-family: Helvetica, Arial, sans-serif;
-    background-color: blue;
-    color: white;
-    font-size: 25px;
-    text-align: center;
-    padding: 1%;
-    padding-top: 1%;
-    padding-right: 1%;
-    text-decoration : none;
-    margin-left: 1%;
-    margin-top: 1%;
-    border: none;
-    border-radius: 10px;
-}
-
 .homeButton{
     font-family: Helvetica, Arial, sans-serif;
     background-color: blue;
