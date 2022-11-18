@@ -25,7 +25,7 @@ header h1{
 }
 
 h2{
-    border: 10px solid;
+    border: 5px solid;
     border-color: white;
     border-radius: 20px;
     margin-left: 1%;
@@ -35,45 +35,8 @@ h2{
     padding: 1%;
 }
 
-/* part 1 */
-.unit1Part1{
-    margin-right: 69%;
-}
 
-.part1{
-    border: 5px solid;
-}
-
-/* part 2 */
-.unit1Part2{
-    margin-right: 70%;
-    margin-top: 5%;
-}
-
-.part2{
-    border: 5px solid;
-}
-
-.end{
-    border: none;
-}
-
-/* videos */
-.videoTim{
-    border: 5px solid;
-    border-color: white;
-    border-radius: 20px;
-    margin-left: 1%;
-    margin-right: 8%;
-    padding: 1%;
-}
-
-.row{
-    display : flex;
-}
-
-/* image */
-.SRBFire{
+img{
     border: 5px solid;
     border-color: white;
     border-radius: 20px;
