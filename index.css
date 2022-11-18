@@ -19,16 +19,17 @@ header{
 
 header h1{
     margin: auto;
+    font-size: 10vw;
     padding-top: 4%;
-    padding-bottom: none;
+    padding-bottom: 4%;
     color: white;
-    font-size: 150px;
+    
 }
 
 header p{
     color: white;
     text-align: left;
-    font-size: 12px;
+    font-size: 1vw;
 }
 
 h1, h2{
@@ -43,7 +44,7 @@ h1, h2{
     border-radius: 5px;
     margin: 1%;
     padding: 1%;
-    font-size: 25px;
+    font-size: 3vw;
     text-decoration : none;
 }
 
@@ -78,7 +79,7 @@ body{
 
 .aboutRockets h2{
     margin: 1%;
-    font-size: 60px;
+    font-size: 7vw;
 }
 
 .aboutRockets img{
@@ -94,7 +95,7 @@ body{
     list-style-type: none;
     text-align: left;
     padding-right: none;
-    font-size: 40px;
+    font-size: 5vw;
     margin: none;
 }
 
