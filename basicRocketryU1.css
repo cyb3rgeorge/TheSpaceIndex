@@ -40,21 +40,14 @@ h2{
     padding: 1%;
 }
 
-/* image */
-.SRBFire{
+.img{
     border: 5px solid;
     border-color: white;
     border-radius: 20px;
     margin-left: 1%;
-    margin-right: 55%;
+    margin-right: 1%;
     margin-top: 1%;
-    padding-left: 1%;
-    padding-right: 1%;
-    padding-top: 1%;
-}
-
-.SRBFire p{
-    padding: none;
+    padding: 1%;
 }
 
 .backButton{
@@ -68,7 +61,6 @@ h2{
     padding-right: 1%;
     text-decoration : none;
     margin-left: 1%;
-    margin-top: 1%;
     border: none;
     border-radius: 10px;
 }
@@ -83,8 +75,7 @@ h2{
     padding-top: 1%;
     padding-right: 1%;
     text-decoration : none;
-    margin-left: 1%;
-    margin-top: 1%;
+    margin: 1%;
     border: none;
     border-radius: 10px;
 }
