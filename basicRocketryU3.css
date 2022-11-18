@@ -8,10 +8,10 @@ body{
 }
 
 header{
+    background-image: url('img/PillarsOfCreationJWST.png');
     text-align: center;
     padding: 1%;
-    margin: auto;
-    width: 88%;
+    padding-bottom: none;
     color: white;
 }
 
@@ -21,7 +21,7 @@ h1, h2{
 
 header h1{
     color: white;
-    font-size: 100px;
+    font-size: 7vw;
 }
 
 h2{

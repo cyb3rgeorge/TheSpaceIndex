@@ -21,7 +21,7 @@ h1, h2{
 
 header h1{
     color: white;
-    font-size: 100px;
+    font-size: 7vw;
 }
 
 h2{
@@ -80,13 +80,7 @@ h2{
     margin-left: 1%;
     margin-right: 55%;
     margin-top: 1%;
-    padding-left: 1%;
-    padding-right: 1%;
-    padding-top: 1%;
-}
-
-.SRBFire p{
-    padding: none;
+    padding: 1%;
 }
 
 .backButton{

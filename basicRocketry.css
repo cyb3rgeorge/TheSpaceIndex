@@ -25,20 +25,13 @@ header{
     color: white;
 }
 
-.headerText{
-    margin: auto;
-    width: 88%;
-    padding: 50px;
-    color: white;
-}
-
 h1, h2{
     font-family: 'Inter', sans-serif, Arial;
 }
 
 header h1{
     color: white;
-    font-size: 100px;
+    font-size: 8vw;
 }
 
 h2{
@@ -52,21 +45,6 @@ h2{
     padding: 1%;
 }
 
-.backButton{
-    font-family: Helvetica, Arial, sans-serif;
-    background-color: blue;
-    color: white;
-    font-size: 25px;
-    text-align: center;
-    padding: 1%;
-    padding-top: 1.2%;
-    padding-right: 1.4%;
-    text-decoration : none;
-    margin-left: 1%;
-    border: none;
-    border-radius: 10px;
-}
-
 h2 ul li{
     list-style-type: none;
     text-align: left;
@@ -77,4 +55,31 @@ h2 ul li{
 
 h2 ul li a{
     color: white;
+}
+
+.startButton{
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 1%;
+    text-decoration : none;
+    margin-left: 1%;
+    border: none;
+    border-radius: 10px;
+    width: 220px
+}
+
+.backButton{
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 1%;
+    text-decoration : none;
+    margin-left: 1%;
+    border: none;
+    border-radius: 10px;
 }
