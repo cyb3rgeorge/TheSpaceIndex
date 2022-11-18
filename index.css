@@ -1,0 +1,107 @@
+a{
+    color: DodgerBlue;
+    text-decoration : none;
+}
+
+a:hover{
+    color: White;
+    background-color: Gold;
+}
+
+/* header */
+
+header{
+    background-image: url('img/PillarsOfCreationJWST.png');
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: none;
+}
+
+header h1{
+    margin: auto;
+    padding-top: 4%;
+    padding-bottom: none;
+    color: white;
+    font-size: 150px;
+}
+
+header p{
+    color: white;
+    text-align: left;
+    font-size: 12px;
+}
+
+h1, h2{
+    font-family: 'Montserrat', Arial;
+}
+
+/* navbar */
+
+.nav{
+    border: 5px solid;
+    border-color: white;
+    border-radius: 5px;
+    margin: 1%;
+    padding: 1%;
+    font-size: 25px;
+    text-decoration : none;
+}
+
+/* body */
+body{
+    margin: auto;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: black;
+    color: white;
+}
+
+/* All About Rockets */
+
+.aboutRockets{
+    border: 10px solid;
+    border-color: white;
+    border-radius: 20px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 2%;
+    padding-top: 1%;
+    padding-bottom: 30%;
+}
+
+.aboutRockets p{
+    margin: 1%;
+    float: right;
+    text-align: right;
+}
+
+.aboutRockets h2{
+    margin: 1%;
+    font-size: 60px;
+}
+
+.aboutRockets img{
+    margin: 1%;
+    border: 2px solid;
+    border-color: white;
+    border-radius: 10px;
+    float: right;
+    
+}
+
+.aboutRockets h3 ul li{
+    list-style-type: none;
+    text-align: left;
+    padding-right: none;
+    font-size: 40px;
+    margin: none;
+}
+
+.SLSDes{
+    bottom: 0; 
+    position: relative; 
+    width: 100%;
+    margin-right: 10%;
+    margin-top: none;
+}
