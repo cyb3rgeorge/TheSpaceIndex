@@ -66,7 +66,7 @@ body{
     border-radius: 20px;
     margin: 1%;
     padding-top: 1%;
-    padding-bottom: 32%;
+    padding-bottom: 34%;
 }
 
 .aboutRockets p{
@@ -104,4 +104,21 @@ body{
     width: 100%;
     margin-right: 10%;
     margin-top: none;
+}
+
+/* People you should know */
+
+.people{
+    border: 5px solid;
+    border-color: white;
+    border-radius: 20px;
+    margin: 1%;
+    padding-top: 1%;
+    padding-bottom: 34%;
+}
+
+.people h2{
+    margin: 1%;
+    font-size: 7vw;
+    padding: 1%
 }
