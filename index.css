@@ -1,11 +1,10 @@
 a{
-    color: DodgerBlue;
     text-decoration : none;
 }
 
 a:hover{
     color: White;
-    background-color: Gold;
+    background-color: blue;
 }
 
 /* header */
@@ -112,14 +111,28 @@ body{
     border-color: white;
     border-radius: 20px;
     margin: 1%;
+    margin-top: 5%;
     padding-top: 1%;
-    padding-bottom: 40%;
+    padding-bottom: none;
 }
 
 .people h2{
     margin: 1%;
     font-size: 7vw;
     padding: 1%
+}
+
+.people h4{
+    margin: 1%;
+    margin-top: 2%;
+    font-size: 2vw;
+    padding: 1%
+}
+
+.people a{
+    margin: 1%;
+    padding: 0.2%;
+    border-radius: none;
 }
 
 .row{
@@ -129,15 +142,7 @@ body{
 .column{
     border: 4px solid;
     border-color: white;
-    margin: 1%;
     flex : 1;
+    margin: 1%;
     border-radius: 10px;
-}
-
-.people h3 ul li{
-    list-style-type: none;
-    text-align: left;
-    padding-right: none;
-    font-size: 5vw;
-    margin: none;
 }

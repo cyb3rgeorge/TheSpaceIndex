@@ -1,11 +1,10 @@
 a{
-    color: DodgerBlue;
     text-decoration : none;
 }
 
 a:hover{
     color: White;
-    background-color: Gold;
+    background-color: blue;
 }
 
 body{

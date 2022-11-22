@@ -1,6 +1,10 @@
 a{
-    color: DodgerBlue;
     text-decoration : none;
+}
+
+a:hover{
+    color: White;
+    background-color: blue;
 }
 
 body{
